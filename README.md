@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
-<p style="text-align:center">Hi there, my name is Matthew Nguyen 👋 </p>
+### Hi there, my name is Matthew Nguyen 👋
 
 
 ## About me
